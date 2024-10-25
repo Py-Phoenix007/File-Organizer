@@ -1,5 +1,10 @@
 # File Organizer Tool
 
+## Author
+Jeba Seelan
+LinkedIn :  https://www.linkedin.com/in/jeba-seelan-598868324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+GitHub : https://github.com/Py-Phoenix007
+
 ## Overview
 The **File Organizer Tool** is a Python application that efficiently organizes files within a specified directory by categorizing them into subfolders based on their types. This tool helps declutter your digital workspace and enhances productivity.
 
