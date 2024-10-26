@@ -2,6 +2,11 @@ import os
 import shutil
 from moviepy.editor import VideoFileClip, AudioFileClip
 
+# Author: Jeba Seelan
+# Topic: File Organizer Tool
+# Created on: 2024-10-25
+# Description: This script organizes files in a specified directory by sorting them into subfolders based on their types, such as Images, Documents, Videos, and Audio. It categorizes longer videos and audio tracks into dedicated folders for Movies and Song Playlists. The tool improves digital organization and simplifies file management.
+
 def create_folders(directory, file_types):
     """Creates subfolders for each file type category."""
     for folder in file_types.keys():
