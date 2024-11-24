@@ -53,4 +53,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For inquiries or collaboration, please reach out via GitHub or connect with me on LinkedIn : https://www.linkedin.com/in/jeba-seelan-598868324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+For inquiries or collaboration, please reach out via GitHub or connect with me on LinkedIn : https://www.linkedin.com/in/jeba-seelan-598868324
